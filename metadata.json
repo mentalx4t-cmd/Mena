@@ -1,0 +1,6 @@
+{
+  "name": "PRISM Live",
+  "description": "PRISM Live Studio clone featuring dual RTMP/SRT broadcast pipelines and interactive Gemini Live multimodal integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
